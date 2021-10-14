@@ -32,6 +32,10 @@
   Access the webpage by going to the deployed site: [Budget-Tracker](https://frozen-bayou-66534.herokuapp.com/). 
 
   If you want to run this on a local server, set the path to the Progressive-Budget folder in the terminal. Run the server.js file by typing `npm start`. Go to http://localhost:3000 to acesss the site.
+  
+  ![BudgetTrackerSS](https://user-images.githubusercontent.com/83731627/137250861-97721e2b-644f-4413-90ab-879628dbe194.png)
+![budget-tracker-runtime](https://user-images.githubusercontent.com/83731627/137250972-9bda5cce-75ca-49e6-b43f-484b4ad94722.png)
+![budget-tracker-indexDB](https://user-images.githubusercontent.com/83731627/137250977-2ea1a08c-e02a-45be-8477-2bdeea526b4e.png)
 
   ## License  
   This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT).
