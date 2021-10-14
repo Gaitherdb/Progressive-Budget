@@ -29,7 +29,7 @@
   ```
   
   ## Usage
-  Access the webpage by going to the deployed site: [Budget-Tracker](). 
+  Access the webpage by going to the deployed site: [Budget-Tracker](https://frozen-bayou-66534.herokuapp.com/). 
 
   If you want to run this on a local server, set the path to the Progressive-Budget folder in the terminal. Run the server.js file by typing `npm start`. Go to http://localhost:3000 to acesss the site.
 
