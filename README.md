@@ -41,7 +41,7 @@
   This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
   ## Contributing
-   I am the sole author of this repo and I am not currently looking for contributors.
+   I am the sole author of this repo (with help from UoR activities) and I am not currently looking for contributors.
 
   ## Questions
   If you have any questions about the repo, open an issue or contact me directly at Gaitherdb@gmail.com. You can find more of my work at [Gaitherdb](https://github.com/Gaitherdb).
